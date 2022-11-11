@@ -16,7 +16,7 @@ variable "hw" {
 
 variable "name" {
   type = string
-  default = "gagan-server-1"
+  default = "gagan-server-2"
   description = "Enter your server name"
 }
 
