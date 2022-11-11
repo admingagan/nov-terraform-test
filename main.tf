@@ -11,12 +11,12 @@ variable "image" {
 variable "hw" {
   type = string
   default = "t2.nano"
-  description = "Enter your   d hardware model"
+  description = "Enter your hardware model"
 }
 
 variable "name" {
   type = string
-  default = "gagandeep-server1"
+  default = "gagandeep-server-1"
   description = "Enter your server name"
 }
 
