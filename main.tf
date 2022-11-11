@@ -26,7 +26,7 @@ resource "aws_instance" "myawsserver" {
 
   tags = {
     Name = var.name
-    Env = "test"
+    Env = "LAB"
     Owner = "Gagandeep"
   }
 }
